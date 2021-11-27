@@ -111,10 +111,11 @@
 }
 .banner-area{
     background-color: #d6d6d6;
+    align-content: center;
 }
 
 .banner-area .content-padding {
-    padding: 200px 0px 180px 350px;
+    padding: 200px 0px 180px 0px;
   }
   
   .content-padding {
